@@ -50,7 +50,8 @@ Go Programming
 • Handling I/O Errors
 9. Error Handling
 • Exception handling basics
-• Error handling in Go 10. Working with Third Party
+• Error handling in Go 
+10. Working with Third Party
 • Installing third party packages
 • Working with MongoDB – a case study
 • Working with a REST server – a case study
