@@ -1,8 +1,13 @@
 # GOtraining
 1. Introduction
+
 • Why Go?
+
 • Installing Go
+
 • Go – Hello World
+
+
 2. Language Basics
 • Types
 • Numbers
